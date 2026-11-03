@@ -1,0 +1,12 @@
+Coeficiente de determinação da regressão linear para lei de potência aplicada às emissões do nível 5 nas simulações 'a' (t = 0.01 s) de densidades de potência pouco intensas: 0.9996232530428597 
+Interseção obtida pela regressão linear para lei de potência aplicada às emissões do nível 5 das simulações 'a' (t = 0.01 s) de densidades de potência pouco intensas: -4.121141271949396 
+Coeficiente angular obtido pela regressão linear para lei de potência aplicada às emissões do nível 5 das simulações 'a' (t = 0.01 s) de densidades de potência pouco intensas: [1.85937353] 
+ 
+Coeficiente de determinação da regressão linear para lei de potência aplicada às emissões do nível 6 nas simulações 'a' (t = 0.01 s) de densidades de potência pouco intensas: 0.9996239916716804 
+Interseção obtida pela regressão linear para lei de potência aplicada às emissões do nível 6 das simulações 'a' (t = 0.01 s) de densidades de potência pouco intensas: -3.924390678259871 
+Coeficiente angular obtido pela regressão linear para lei de potência aplicada às emissões do nível 6 das simulações 'a' (t = 0.01 s) de densidades de potência pouco intensas: [1.8595488] 
+ 
+Coeficiente de determinação da regressão linear para lei de potência aplicada às emissões do nível 7 nas simulações 'a' (t = 0.01 s) de densidades de potência pouco intensas: 0.9996240159906853 
+Interseção obtida pela regressão linear para lei de potência aplicada às emissões do nível 7 das simulações 'a' (t = 0.01 s) de densidades de potência pouco intensas: -5.412579805989841 
+Coeficiente angular obtido pela regressão linear para lei de potência aplicada às emissões do nível 7 das simulações 'a' (t = 0.01 s) de densidades de potência pouco intensas: [1.85954918] 
+ 
