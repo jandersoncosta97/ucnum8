@@ -3,7 +3,7 @@
 
 ### Observation about this repository
 
-The main and develop branches were sometimes reset. As long as I can remember,  other branches too. Additionally, some may have been deleted. This all led to the timing of the creation of the branches you can observe in this repository. In the middle of 2024, I added my thesis work to GitHub.
+This is a copy of the original repository, which remains nonpublic
 
 ### How to install
 
